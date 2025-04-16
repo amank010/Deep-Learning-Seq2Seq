@@ -1,3 +1,6 @@
+## 📄 Roll No.
+2K22/CO/48
+
 # Sequence to Sequence Learning with LSTM
 
 This project demonstrates a basic implementation of **Sequence-to-Sequence (Seq2Seq)** learning using **LSTM** networks in Keras. It translates **English sentences into Spanish** using a dataset of simple English-Spanish sentence pairs.
@@ -72,6 +75,4 @@ Output: `ve.`
 Input: `i am hungry.`  
 Output: `tengo hambre.`
 
-## 📄 Roll No.
 
-2K22/CO/48
